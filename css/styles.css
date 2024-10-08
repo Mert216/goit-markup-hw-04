@@ -296,6 +296,8 @@ a {
 }
 .social-icon {
   fill: #f4f4fd;
+  background-color: #4D5AE5;
+  ;
 }
 
 .third-section .social-list .list-item .social-link:hover,
